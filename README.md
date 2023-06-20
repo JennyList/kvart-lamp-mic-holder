@@ -1,4 +1,4 @@
-# Mount a Logitech gaming microphone on an Ikea Kvart lamp stem
+# Logitech gaming mic mount for an Ikea Kvart lamp stem
 An action cam mount and gaming mic holder for Ikea Kvart lamps
 
 There are three parts, a Kvart to action cam adapter, an action cam to microphone holder, and a pin which prints up the centre of the Kvart adapter.
