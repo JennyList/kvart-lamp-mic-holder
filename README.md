@@ -10,3 +10,5 @@ What it does is best illustrated in the image below. The STL is best printed usi
 ## Licence
 
 This library is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
